@@ -12,8 +12,7 @@ Voor deze deeltaak moeten wij een User Goal en User Story vaststellen en daar ve
 
 **Dit is de wireflow voor mijn User Story:**
 
-![IMG_8789](https://github.com/Annevd/fix-the-flow-wireflow/assets/144004647/f01862c3-09ca-44b0-ad67-f266e016d37a)
-![IMG_87902](https://github.com/Annevd/fix-the-flow-wireflow/assets/144004647/3c6faa84-c4a3-4d40-82c5-976ab5643143)
+![IMG_8795](https://github.com/Annevd/fix-the-flow-interactive-website/assets/144004647/78098c0f-dcb4-4b91-b1df-e4345134df0c)
 
 
 ## Licentie
